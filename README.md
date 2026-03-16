@@ -16,6 +16,9 @@
 Cloudflare 域名邮箱从 0 到 1 的完整配置说明见：
 [Cloudflare 邮件设置详解](./docs/Cloudflare%E9%82%AE%E4%BB%B6%E8%AE%BE%E7%BD%AE%E8%AF%A6%E8%A7%A3.md)
 
+英文版说明见：
+[Cloudflare Mail Setup Guide](./docs/Cloudflare-Mail-Setup-Guide.md)
+
 ## Features
 
 - 单启动台模式，不需要手动拼命令参数

@@ -1,5 +1,7 @@
 # Cloudflare 邮件设置详解
 
+[English Version](./Cloudflare-Mail-Setup-Guide.md)
+
 这篇文档只讲一件事：
 
 把 `Cloudflare 域名邮箱 + 一个简单的收信 API` 配好，让我们的 `tavily-key-generator` 可以直接使用。
